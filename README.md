@@ -1,4 +1,4 @@
-# example-cmake-helloworld-cpp
+# example-cmake-helloworld-cpp-hello
 
 This is an example of how to use CMake to build a Hello World C++ program.
 
