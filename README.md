@@ -39,4 +39,5 @@ Third, simply run cmake, followed by make, and then the hello world executable i
 
 ```bash
 cmake . && make && ./hello
+adding new thing for test
 ```
